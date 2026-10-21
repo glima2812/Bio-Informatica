@@ -8,7 +8,7 @@ O objetivo deste repositório é documentar e centralizar todas as entregas e ex
 
 ## 🗂️ Estrutura do Repositório
 
-- 📁 **[Nome_do_Primeiro_Trabalho](./pasta_do_trabalho/)**: Breve descrição do trabalho que vocês já realizaram (ex: Análise de sequências, alinhamento local/global, etc.). Contém os scripts e o relatório descritivo.
+- 📁 **[Verificando a Qualidade de Sequênciamentos](./pasta_do_trabalho/)**: Breve descrição do trabalho que vocês já realizaram (ex: Análise de sequências, alinhamento local/global, etc.). Contém os scripts e o relatório descritivo.
 - ⏳ *Novos projetos e relatórios serão listados aqui conforme forem concluídos.*
 
 ## 💻 Tecnologias Utilizadas
